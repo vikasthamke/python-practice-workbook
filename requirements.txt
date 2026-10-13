@@ -1,0 +1,5 @@
+# The practice system, questions and reference solutions use only the Python standard library
+# (Python 3.10 or newer). These packages provide the Jupyter notebook interface.
+# (JupyterLab works too: pip install jupyterlab)
+notebook>=7.0
+ipykernel>=6.25

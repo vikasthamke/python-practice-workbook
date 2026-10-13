@@ -1,0 +1,402 @@
+[
+  {
+    "user_id": "u06",
+    "event_type": "search",
+    "timestamp": "2024-05-01T03:38:56Z"
+  },
+  {
+    "user_id": "u05",
+    "event_type": "search",
+    "timestamp": "2024-05-01T04:24:10Z"
+  },
+  {
+    "user_id": "u08",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T03:53:44Z"
+  },
+  {
+    "user_id": "u08",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T03:00:48Z"
+  },
+  {
+    "user_id": "u04",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T06:11:15Z"
+  },
+  {
+    "user_id": "u07",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T01:32:16Z"
+  },
+  {
+    "user_id": "u06",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T03:18:13Z"
+  },
+  {
+    "user_id": "u02",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T00:27:01Z"
+  },
+  {
+    "user_id": "u04",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T06:24:43Z"
+  },
+  {
+    "user_id": "u01",
+    "event_type": "click",
+    "timestamp": "2024-05-01T03:40:28Z"
+  },
+  {
+    "user_id": "u08",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T04:38:47Z"
+  },
+  {
+    "user_id": "u08",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T02:25:38Z"
+  },
+  {
+    "user_id": "u02",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T03:12:49Z"
+  },
+  {
+    "user_id": "u02",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T03:04:30Z"
+  },
+  {
+    "user_id": "u01",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T00:50:40Z"
+  },
+  {
+    "user_id": "u01",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T01:10:51Z"
+  },
+  {
+    "user_id": "u03",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T00:43:12Z"
+  },
+  {
+    "user_id": "u02",
+    "event_type": "search",
+    "timestamp": "2024-05-01T01:34:11Z"
+  },
+  {
+    "user_id": "u02",
+    "event_type": "click",
+    "timestamp": "2024-05-01T00:24:31Z"
+  },
+  {
+    "user_id": "u06",
+    "event_type": "click",
+    "timestamp": "2024-05-01T03:58:49Z"
+  },
+  {
+    "user_id": "u04",
+    "event_type": "search",
+    "timestamp": "2024-05-01T06:14:04Z"
+  },
+  {
+    "user_id": "u03",
+    "event_type": "click",
+    "timestamp": "2024-05-01T03:28:38Z"
+  },
+  {
+    "user_id": "u04",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T05:26:22Z"
+  },
+  {
+    "user_id": "u02",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T00:33:10Z"
+  },
+  {
+    "user_id": "u03",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T01:34:18Z"
+  },
+  {
+    "user_id": "u06",
+    "event_type": "click",
+    "timestamp": "2024-05-01T05:28:17Z"
+  },
+  {
+    "user_id": "u02",
+    "event_type": "search",
+    "timestamp": "2024-05-01T03:20:43Z"
+  },
+  {
+    "user_id": "u06",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T04:57:08Z"
+  },
+  {
+    "user_id": "u01",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T03:11:27Z"
+  },
+  {
+    "user_id": "u07",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T03:23:08Z"
+  },
+  {
+    "user_id": "u05",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T03:31:03Z"
+  },
+  {
+    "user_id": "u03",
+    "event_type": "search",
+    "timestamp": "2024-05-01T02:55:45Z"
+  },
+  {
+    "user_id": "u01",
+    "event_type": "search",
+    "timestamp": "2024-05-01T01:41:32Z"
+  },
+  {
+    "user_id": "u05",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T03:02:51Z"
+  },
+  {
+    "user_id": "u02",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T01:04:25Z"
+  },
+  {
+    "user_id": "u08",
+    "event_type": "search",
+    "timestamp": "2024-05-01T03:45:54Z"
+  },
+  {
+    "user_id": "u03",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T02:23:31Z"
+  },
+  {
+    "user_id": "u07",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T02:37:48Z"
+  },
+  {
+    "user_id": "u05",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T03:43:54Z"
+  },
+  {
+    "user_id": "u04",
+    "event_type": "search",
+    "timestamp": "2024-05-01T05:06:40Z"
+  },
+  {
+    "user_id": "u04",
+    "event_type": "search",
+    "timestamp": "2024-05-01T02:06:36Z"
+  },
+  {
+    "user_id": "u05",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T03:55:02Z"
+  },
+  {
+    "user_id": "u06",
+    "event_type": "search",
+    "timestamp": "2024-05-01T02:13:09Z"
+  },
+  {
+    "user_id": "u05",
+    "event_type": "search",
+    "timestamp": "2024-05-01T02:59:35Z"
+  },
+  {
+    "user_id": "u01",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T01:02:53Z"
+  },
+  {
+    "user_id": "u07",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T02:17:41Z"
+  },
+  {
+    "user_id": "u04",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T03:36:11Z"
+  },
+  {
+    "user_id": "u03",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T03:25:31Z"
+  },
+  {
+    "user_id": "u05",
+    "event_type": "click",
+    "timestamp": "2024-05-01T02:02:00Z"
+  },
+  {
+    "user_id": "u06",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T02:43:16Z"
+  },
+  {
+    "user_id": "u07",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T02:50:41Z"
+  },
+  {
+    "user_id": "u06",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T04:27:37Z"
+  },
+  {
+    "user_id": "u01",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T02:58:04Z"
+  },
+  {
+    "user_id": "u03",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T02:52:01Z"
+  },
+  {
+    "user_id": "u05",
+    "event_type": "search",
+    "timestamp": "2024-05-01T02:51:59Z"
+  },
+  {
+    "user_id": "u06",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T05:33:24Z"
+  },
+  {
+    "user_id": "u08",
+    "event_type": "search",
+    "timestamp": "2024-05-01T01:25:11Z"
+  },
+  {
+    "user_id": "u03",
+    "event_type": "search",
+    "timestamp": "2024-05-01T01:03:56Z"
+  },
+  {
+    "user_id": "u08",
+    "event_type": "search",
+    "timestamp": "2024-05-01T01:54:45Z"
+  },
+  {
+    "user_id": "u03",
+    "event_type": "click",
+    "timestamp": "2024-05-01T00:12:30Z"
+  },
+  {
+    "user_id": "u06",
+    "event_type": "click",
+    "timestamp": "2024-05-01T02:48:58Z"
+  },
+  {
+    "user_id": "u07",
+    "event_type": "search",
+    "timestamp": "2024-05-01T03:20:04Z"
+  },
+  {
+    "user_id": "u01",
+    "event_type": "search",
+    "timestamp": "2024-05-01T02:12:50Z"
+  },
+  {
+    "user_id": "u03",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T01:54:32Z"
+  },
+  {
+    "user_id": "u08",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T02:56:50Z"
+  },
+  {
+    "user_id": "u08",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T02:57:29Z"
+  },
+  {
+    "user_id": "u05",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T02:22:32Z"
+  },
+  {
+    "user_id": "u07",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T02:45:06Z"
+  },
+  {
+    "user_id": "u01",
+    "event_type": "search",
+    "timestamp": "2024-05-01T03:03:58Z"
+  },
+  {
+    "user_id": "u07",
+    "event_type": "click",
+    "timestamp": "2024-05-01T03:35:20Z"
+  },
+  {
+    "user_id": "u02",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T00:32:07Z"
+  },
+  {
+    "user_id": "u07",
+    "event_type": "click",
+    "timestamp": "2024-05-01T02:25:26Z"
+  },
+  {
+    "user_id": "u08",
+    "event_type": "search",
+    "timestamp": "2024-05-01T01:20:39Z"
+  },
+  {
+    "user_id": "u07",
+    "event_type": "search",
+    "timestamp": "2024-05-01T02:42:09Z"
+  },
+  {
+    "user_id": "u04",
+    "event_type": "checkout",
+    "timestamp": "2024-05-01T06:19:23Z"
+  },
+  {
+    "user_id": "u04",
+    "event_type": "search",
+    "timestamp": "2024-05-01T06:55:26Z"
+  },
+  {
+    "user_id": "u02",
+    "event_type": "click",
+    "timestamp": "2024-05-01T04:50:46Z"
+  },
+  {
+    "user_id": "u05",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T04:53:55Z"
+  },
+  {
+    "user_id": "u04",
+    "event_type": "add_to_cart",
+    "timestamp": "2024-05-01T02:51:35Z"
+  },
+  {
+    "user_id": "u01",
+    "event_type": "page_view",
+    "timestamp": "2024-05-01T02:13:23Z"
+  }
+]

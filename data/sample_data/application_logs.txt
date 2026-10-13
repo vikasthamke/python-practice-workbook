@@ -1,0 +1,40 @@
+2024-05-01T12:00:00Z ERROR [auth] connection refused by upstream
+2024-05-01T12:00:37Z DEBUG [gateway] cache lookup key=user:1557
+2024-05-01T12:01:14Z INFO [auth] model v8 loaded
+2024-05-01T12:01:51Z WARNING [gateway] retrying [attempt 3/3]
+2024-05-01T12:02:28Z INFO [payment-service] model v2 loaded
+
+2024-05-01T12:03:05Z INFO [model-api] model v2 loaded
+2024-05-01T12:03:42Z WARNING [model-api] retrying [attempt 2/3]
+2024-05-01T12:04:19Z WARNING [payment-service] slow response 1113ms
+2024-05-01T12:04:56Z DEBUG [gateway] cache lookup key=user:670
+2024-05-01T12:05:33Z WARNING [auth] slow response 1348ms
+Traceback (most recent call last):
+  File "handler.py", line 10, in handle
+2024-05-01T12:06:10Z INFO [gateway] model v2 loaded
+2024-05-01T12:06:47Z WARNING [feature-store] retrying [attempt 2/3]
+2024-05-01T12:07:24Z INFO [gateway] user login ok
+2024-05-01T12:08:01Z CRITICAL [feature-store] disk usage above 95%
+2024-05-01T12:08:38Z ERROR [auth] connection refused by upstream
+2024-05-01T12:09:15Z INFO [payment-service] request completed in 469ms
+2024-05-01T12:09:52Z ERROR [feature-store] invalid payload: missing field 'id'
+2024-05-01 12:20:00 ERROR [gateway] timestamp without T and Z
+2024-05-01T12:10:29Z INFO [auth] batch 2168 committed
+2024-05-01T12:11:06Z ERROR [model-api] invalid payload: missing field 'id'
+2024-05-01T12:11:43Z INFO [auth] request completed in 1800ms
+2024-05-01T12:12:20Z WARNING [auth] retrying [attempt 3/3]
+2024-05-01T12:12:57Z DEBUG [payment-service] payload size 3448 bytes
+2024-05-01T12:13:34Z ERROR [auth] Timeout after 681ms
+2024-05-01T12:27:00Z TRACE [auth] unknown level
+2024-05-01T12:14:11Z INFO [model-api] model v2 loaded
+2024-05-01T12:14:48Z INFO [feature-store] user login ok
+2024-05-01T12:15:25Z INFO [feature-store] request completed in 2201ms
+2024-05-01T12:16:02Z ERROR [feature-store] invalid payload: missing field 'id'
+2024-05-01T12:16:39Z INFO [model-api] user login ok
+2024-05-01T12:33:00Z INFO [Model_API] invalid service name
+2024-05-01T12:17:16Z ERROR [gateway] connection refused by upstream
+2024-05-01T12:17:53Z INFO [model-api] batch 496 committed
+2024-05-01T12:18:30Z INFO [payment-service] request completed in 2288ms
+2024-05-01T12:19:07Z DEBUG [auth] cache lookup key=user:291
+2024-05-01T12:19:44Z ERROR [payment-service] Timeout after 1373ms
+2024-05-01T12:20:21Z ERROR [payment-service] connection refused by upstream

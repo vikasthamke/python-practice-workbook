@@ -1,0 +1,314 @@
+[
+  {
+    "request_id": "req-007",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 1240
+  },
+  {
+    "request_id": "req-004",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 2801
+  },
+  {
+    "request_id": "req-028",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 1104
+  },
+  {
+    "request_id": "req-022",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 2552
+  },
+  {
+    "request_id": "req-001",
+    "attempt": 2,
+    "status": "success",
+    "latency_ms": 1094
+  },
+  {
+    "request_id": "req-006",
+    "attempt": 2,
+    "status": "success",
+    "latency_ms": 2247
+  },
+  {
+    "request_id": "req-023",
+    "attempt": 2,
+    "status": "success",
+    "latency_ms": 1720
+  },
+  {
+    "request_id": "req-005",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 2212
+  },
+  {
+    "request_id": "req-020",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 1453
+  },
+  {
+    "request_id": "req-007",
+    "attempt": 2,
+    "status": "retryable_error",
+    "latency_ms": 2704
+  },
+  {
+    "request_id": "req-027",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 2560
+  },
+  {
+    "request_id": "req-017",
+    "attempt": 3,
+    "status": "success",
+    "latency_ms": 640
+  },
+  {
+    "request_id": "req-012",
+    "attempt": 2,
+    "status": "success",
+    "latency_ms": 1363
+  },
+  {
+    "request_id": "req-010",
+    "attempt": 1,
+    "status": "fatal_error",
+    "latency_ms": 485
+  },
+  {
+    "request_id": "req-027",
+    "attempt": 2,
+    "status": "success",
+    "latency_ms": 2347
+  },
+  {
+    "request_id": "req-007",
+    "attempt": 4,
+    "status": "success",
+    "latency_ms": 2990
+  },
+  {
+    "request_id": "req-024",
+    "attempt": 1,
+    "status": "fatal_error",
+    "latency_ms": 1480
+  },
+  {
+    "request_id": "req-003",
+    "attempt": 2,
+    "status": "success",
+    "latency_ms": 2007
+  },
+  {
+    "request_id": "req-012",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 2205
+  },
+  {
+    "request_id": "req-002",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 2947
+  },
+  {
+    "request_id": "req-002",
+    "attempt": 2,
+    "status": "retryable_error",
+    "latency_ms": 2992
+  },
+  {
+    "request_id": "req-023",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 1219
+  },
+  {
+    "request_id": "req-002",
+    "attempt": 4,
+    "status": "success",
+    "latency_ms": 819
+  },
+  {
+    "request_id": "req-021",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 1534
+  },
+  {
+    "request_id": "req-019",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 2420
+  },
+  {
+    "request_id": "req-003",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 252
+  },
+  {
+    "request_id": "req-008",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 2420
+  },
+  {
+    "request_id": "req-025",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 567
+  },
+  {
+    "request_id": "req-008",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 2420
+  },
+  {
+    "request_id": "req-020",
+    "attempt": 2,
+    "status": "success",
+    "latency_ms": 1852
+  },
+  {
+    "request_id": "req-016",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 2149
+  },
+  {
+    "request_id": "req-007",
+    "attempt": 3,
+    "status": "retryable_error",
+    "latency_ms": 845
+  },
+  {
+    "request_id": "req-006",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 1447
+  },
+  {
+    "request_id": "req-002",
+    "attempt": 3,
+    "status": "retryable_error",
+    "latency_ms": 575
+  },
+  {
+    "request_id": "req-017",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 1124
+  },
+  {
+    "request_id": "req-018",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 2784
+  },
+  {
+    "request_id": "req-001",
+    "attempt": 2,
+    "status": "success",
+    "latency_ms": 1094
+  },
+  {
+    "request_id": "req-030",
+    "attempt": 1,
+    "status": "fatal_error",
+    "latency_ms": 2570
+  },
+  {
+    "request_id": "req-021",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 1534
+  },
+  {
+    "request_id": "req-011",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 2643
+  },
+  {
+    "request_id": "req-013",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 1011
+  },
+  {
+    "request_id": "req-014",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 831
+  },
+  {
+    "request_id": "req-016",
+    "attempt": 2,
+    "status": "success",
+    "latency_ms": 2270
+  },
+  {
+    "request_id": "req-009",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 336
+  },
+  {
+    "request_id": "req-009",
+    "attempt": 2,
+    "status": "success",
+    "latency_ms": 1075
+  },
+  {
+    "request_id": "req-017",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 2100
+  },
+  {
+    "request_id": "req-026",
+    "attempt": 1,
+    "status": "fatal_error",
+    "latency_ms": 1875
+  },
+  {
+    "request_id": "req-015",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 1010
+  },
+  {
+    "request_id": "req-015",
+    "attempt": 2,
+    "status": "success",
+    "latency_ms": 2945
+  },
+  {
+    "request_id": "req-027",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 2560
+  },
+  {
+    "request_id": "req-029",
+    "attempt": 1,
+    "status": "success",
+    "latency_ms": 797
+  },
+  {
+    "request_id": "req-001",
+    "attempt": 1,
+    "status": "retryable_error",
+    "latency_ms": 947
+  }
+]

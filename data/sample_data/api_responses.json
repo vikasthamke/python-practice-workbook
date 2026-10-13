@@ -1,0 +1,46 @@
+[
+  {
+    "request_id": "s-001",
+    "data": {
+      "items": [
+        {
+          "id": "doc-17",
+          "title": "Feature stores 101",
+          "scores": {
+            "relevance": 0.92,
+            "freshness": 0.4
+          }
+        },
+        {
+          "id": "doc-03",
+          "title": "Vector search basics",
+          "scores": {
+            "relevance": 0.81
+          }
+        }
+      ]
+    },
+    "meta": {
+      "page": 1,
+      "next_cursor": "c2"
+    }
+  },
+  {
+    "request_id": "s-002",
+    "data": {
+      "items": []
+    },
+    "meta": {
+      "page": 1,
+      "next_cursor": null
+    }
+  },
+  {
+    "request_id": "s-003",
+    "error": {
+      "code": 429,
+      "message": "rate limited"
+    },
+    "meta": null
+  }
+]

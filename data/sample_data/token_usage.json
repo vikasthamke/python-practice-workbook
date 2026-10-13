@@ -1,0 +1,498 @@
+{
+  "prices": {
+    "gpt-small": {
+      "prompt": 0.0005,
+      "completion": 0.0015
+    },
+    "gpt-large": {
+      "prompt": 0.01,
+      "completion": 0.03
+    },
+    "embed-small": {
+      "prompt": 0.0001,
+      "completion": 0.0
+    }
+  },
+  "records": [
+    {
+      "request_id": "r001",
+      "model": "embed-small",
+      "timestamp": "2024-05-01T09:00:00Z",
+      "prompt_tokens": 784,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r002",
+      "model": "gpt-large",
+      "timestamp": "2024-05-01T10:00:00Z",
+      "prompt_tokens": 1509,
+      "completion_tokens": 555,
+      "status": "ok"
+    },
+    {
+      "request_id": "r003",
+      "model": "gpt-large",
+      "timestamp": "2024-05-01T11:00:00Z",
+      "prompt_tokens": 1570,
+      "completion_tokens": 279,
+      "status": "ok"
+    },
+    {
+      "request_id": "r004",
+      "model": "embed-small",
+      "timestamp": "2024-05-01T12:00:00Z",
+      "prompt_tokens": 1931,
+      "completion_tokens": 0,
+      "status": "error"
+    },
+    {
+      "request_id": "r005",
+      "model": "gpt-small",
+      "timestamp": "2024-05-01T13:00:00Z",
+      "prompt_tokens": 2530,
+      "completion_tokens": 288,
+      "status": "ok"
+    },
+    {
+      "request_id": "r006",
+      "model": "gpt-large",
+      "timestamp": "2024-05-01T14:00:00Z",
+      "prompt_tokens": 1671,
+      "completion_tokens": 306,
+      "status": "ok"
+    },
+    {
+      "request_id": "r007",
+      "model": "gpt-large",
+      "timestamp": "2024-05-01T15:00:00Z",
+      "prompt_tokens": 2414,
+      "completion_tokens": 153,
+      "status": "ok"
+    },
+    {
+      "request_id": "r008",
+      "model": "gpt-small",
+      "timestamp": "2024-05-01T16:00:00Z",
+      "prompt_tokens": 2302,
+      "completion_tokens": 522,
+      "status": "ok"
+    },
+    {
+      "request_id": "r009",
+      "model": "gpt-large",
+      "timestamp": "2024-05-01T09:00:00Z",
+      "prompt_tokens": 2365,
+      "completion_tokens": 261,
+      "status": "ok"
+    },
+    {
+      "request_id": "r010",
+      "model": "gpt-large",
+      "timestamp": "2024-05-01T10:00:00Z",
+      "prompt_tokens": 846,
+      "completion_tokens": 261,
+      "status": "ok"
+    },
+    {
+      "request_id": "r011",
+      "model": "gpt-large",
+      "timestamp": "2024-05-01T11:00:00Z",
+      "prompt_tokens": 1550,
+      "completion_tokens": 738,
+      "status": "ok"
+    },
+    {
+      "request_id": "r012",
+      "model": "gpt-small",
+      "timestamp": "2024-05-01T12:00:00Z",
+      "prompt_tokens": 350,
+      "completion_tokens": 154,
+      "status": "error"
+    },
+    {
+      "request_id": "r013",
+      "model": "gpt-small",
+      "timestamp": "2024-05-01T13:00:00Z",
+      "prompt_tokens": 2717,
+      "completion_tokens": 460,
+      "status": "ok"
+    },
+    {
+      "request_id": "r014",
+      "model": "embed-small",
+      "timestamp": "2024-05-01T14:00:00Z",
+      "prompt_tokens": 2626,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r015",
+      "model": "gpt-small",
+      "timestamp": "2024-05-01T15:00:00Z",
+      "prompt_tokens": 1646,
+      "completion_tokens": 494,
+      "status": "ok"
+    },
+    {
+      "request_id": "r016",
+      "model": "gpt-small",
+      "timestamp": "2024-05-01T16:00:00Z",
+      "prompt_tokens": 2994,
+      "completion_tokens": 22,
+      "status": "ok"
+    },
+    {
+      "request_id": "r017",
+      "model": "gpt-small",
+      "timestamp": "2024-05-01T09:00:00Z",
+      "prompt_tokens": 226,
+      "completion_tokens": 454,
+      "status": "ok"
+    },
+    {
+      "request_id": "r018",
+      "model": "gpt-small",
+      "timestamp": "2024-05-01T10:00:00Z",
+      "prompt_tokens": 630,
+      "completion_tokens": 250,
+      "status": "ok"
+    },
+    {
+      "request_id": "r019",
+      "model": "gpt-small",
+      "timestamp": "2024-05-01T11:00:00Z",
+      "prompt_tokens": 2909,
+      "completion_tokens": 529,
+      "status": "ok"
+    },
+    {
+      "request_id": "r020",
+      "model": "embed-small",
+      "timestamp": "2024-05-01T12:00:00Z",
+      "prompt_tokens": 1873,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r021",
+      "model": "gpt-large",
+      "timestamp": "2024-05-02T13:00:00Z",
+      "prompt_tokens": 1089,
+      "completion_tokens": 674,
+      "status": "ok"
+    },
+    {
+      "request_id": "r022",
+      "model": "embed-small",
+      "timestamp": "2024-05-02T14:00:00Z",
+      "prompt_tokens": 704,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r023",
+      "model": "gpt-large",
+      "timestamp": "2024-05-02T15:00:00Z",
+      "prompt_tokens": 1743,
+      "completion_tokens": 770,
+      "status": "error"
+    },
+    {
+      "request_id": "r024",
+      "model": "gpt-small",
+      "timestamp": "2024-05-02T16:00:00Z",
+      "prompt_tokens": 1079,
+      "completion_tokens": 773,
+      "status": "ok"
+    },
+    {
+      "request_id": "r025",
+      "model": "gpt-small",
+      "timestamp": "2024-05-02T09:00:00Z",
+      "prompt_tokens": 1486,
+      "completion_tokens": 798,
+      "status": "ok"
+    },
+    {
+      "request_id": "r026",
+      "model": "embed-small",
+      "timestamp": "2024-05-02T10:00:00Z",
+      "prompt_tokens": 881,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r027",
+      "model": "gpt-large",
+      "timestamp": "2024-05-02T11:00:00Z",
+      "prompt_tokens": 2632,
+      "completion_tokens": 742,
+      "status": "ok"
+    },
+    {
+      "request_id": "r028",
+      "model": "gpt-large",
+      "timestamp": "2024-05-02T12:00:00Z",
+      "prompt_tokens": 2181,
+      "completion_tokens": 403,
+      "status": "ok"
+    },
+    {
+      "request_id": "r029",
+      "model": "local-llm",
+      "timestamp": "2024-05-02T13:00:00Z",
+      "prompt_tokens": 2740,
+      "completion_tokens": 753,
+      "status": "ok"
+    },
+    {
+      "request_id": "r030",
+      "model": "embed-small",
+      "timestamp": "2024-05-02T14:00:00Z",
+      "prompt_tokens": 611,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r031",
+      "model": "gpt-small",
+      "timestamp": "2024-05-02T15:00:00Z",
+      "prompt_tokens": 2521,
+      "completion_tokens": null,
+      "status": "ok"
+    },
+    {
+      "request_id": "r032",
+      "model": "gpt-large",
+      "timestamp": "2024-05-02T16:00:00Z",
+      "prompt_tokens": 2083,
+      "completion_tokens": 263,
+      "status": "ok"
+    },
+    {
+      "request_id": "r033",
+      "model": "local-llm",
+      "timestamp": "2024-05-02T09:00:00Z",
+      "prompt_tokens": 2578,
+      "completion_tokens": 236,
+      "status": "ok"
+    },
+    {
+      "request_id": "r034",
+      "model": "gpt-small",
+      "timestamp": "2024-05-02T10:00:00Z",
+      "prompt_tokens": 2429,
+      "completion_tokens": 63,
+      "status": "ok"
+    },
+    {
+      "request_id": "r035",
+      "model": "embed-small",
+      "timestamp": "2024-05-02T11:00:00Z",
+      "prompt_tokens": 2924,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r036",
+      "model": "gpt-small",
+      "timestamp": "2024-05-02T12:00:00Z",
+      "prompt_tokens": 208,
+      "completion_tokens": 625,
+      "status": "ok"
+    },
+    {
+      "request_id": "r037",
+      "model": "gpt-small",
+      "timestamp": "2024-05-02T13:00:00Z",
+      "prompt_tokens": 2438,
+      "completion_tokens": 387,
+      "status": "ok"
+    },
+    {
+      "request_id": "r038",
+      "model": "embed-small",
+      "timestamp": "2024-05-02T14:00:00Z",
+      "prompt_tokens": 2384,
+      "completion_tokens": 0,
+      "status": "error"
+    },
+    {
+      "request_id": "r039",
+      "model": "gpt-large",
+      "timestamp": "2024-05-02T15:00:00Z",
+      "prompt_tokens": 796,
+      "completion_tokens": 369,
+      "status": "ok"
+    },
+    {
+      "request_id": "r040",
+      "model": "gpt-small",
+      "timestamp": "2024-05-02T16:00:00Z",
+      "prompt_tokens": 840,
+      "completion_tokens": 322,
+      "status": "ok"
+    },
+    {
+      "request_id": "r041",
+      "model": "local-llm",
+      "timestamp": "2024-05-03T09:00:00Z",
+      "prompt_tokens": 2851,
+      "completion_tokens": 188,
+      "status": "ok"
+    },
+    {
+      "request_id": "r042",
+      "model": "gpt-small",
+      "timestamp": "2024-05-03T10:00:00Z",
+      "prompt_tokens": 509,
+      "completion_tokens": 588,
+      "status": "ok"
+    },
+    {
+      "request_id": "r043",
+      "model": "gpt-large",
+      "timestamp": "2024-05-03T11:00:00Z",
+      "prompt_tokens": 735,
+      "completion_tokens": 250,
+      "status": "ok"
+    },
+    {
+      "request_id": "r044",
+      "model": "gpt-small",
+      "timestamp": "2024-05-03T12:00:00Z",
+      "prompt_tokens": 1807,
+      "completion_tokens": 90,
+      "status": "ok"
+    },
+    {
+      "request_id": "r045",
+      "model": "gpt-small",
+      "timestamp": "2024-05-03T13:00:00Z",
+      "prompt_tokens": 2487,
+      "completion_tokens": 678,
+      "status": "ok"
+    },
+    {
+      "request_id": "r046",
+      "model": "embed-small",
+      "timestamp": "2024-05-03T14:00:00Z",
+      "prompt_tokens": 2328,
+      "completion_tokens": 0,
+      "status": "error"
+    },
+    {
+      "request_id": "r047",
+      "model": "embed-small",
+      "timestamp": "2024-05-03T15:00:00Z",
+      "prompt_tokens": 2275,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r048",
+      "model": "embed-small",
+      "timestamp": "2024-05-03T16:00:00Z",
+      "prompt_tokens": 2897,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r049",
+      "model": "local-llm",
+      "timestamp": "2024-05-03T09:00:00Z",
+      "prompt_tokens": 1850,
+      "completion_tokens": 59,
+      "status": "ok"
+    },
+    {
+      "request_id": "r050",
+      "model": "gpt-small",
+      "timestamp": "2024-05-03T10:00:00Z",
+      "prompt_tokens": 1455,
+      "completion_tokens": 865,
+      "status": "ok"
+    },
+    {
+      "request_id": "r051",
+      "model": "embed-small",
+      "timestamp": "2024-05-03T11:00:00Z",
+      "prompt_tokens": 2692,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r052",
+      "model": "gpt-small",
+      "timestamp": "2024-05-03T12:00:00Z",
+      "prompt_tokens": 2206,
+      "completion_tokens": 114,
+      "status": "ok"
+    },
+    {
+      "request_id": "r053",
+      "model": "embed-small",
+      "timestamp": "2024-05-03T13:00:00Z",
+      "prompt_tokens": 62,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r054",
+      "model": "gpt-small",
+      "timestamp": "2024-05-03T14:00:00Z",
+      "prompt_tokens": 1322,
+      "completion_tokens": 149,
+      "status": "ok"
+    },
+    {
+      "request_id": "r055",
+      "model": "local-llm",
+      "timestamp": "2024-05-03T15:00:00Z",
+      "prompt_tokens": 1721,
+      "completion_tokens": 144,
+      "status": "ok"
+    },
+    {
+      "request_id": "r056",
+      "model": "embed-small",
+      "timestamp": "2024-05-03T16:00:00Z",
+      "prompt_tokens": 1284,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r057",
+      "model": "local-llm",
+      "timestamp": "2024-05-03T09:00:00Z",
+      "prompt_tokens": 2364,
+      "completion_tokens": 295,
+      "status": "ok"
+    },
+    {
+      "request_id": "r058",
+      "model": "embed-small",
+      "timestamp": "2024-05-03T10:00:00Z",
+      "prompt_tokens": 2496,
+      "completion_tokens": 0,
+      "status": "ok"
+    },
+    {
+      "request_id": "r059",
+      "model": "gpt-small",
+      "timestamp": "2024-05-03T11:00:00Z",
+      "prompt_tokens": 367,
+      "completion_tokens": 735,
+      "status": "error"
+    },
+    {
+      "request_id": "r060",
+      "model": "gpt-small",
+      "timestamp": "2024-05-03T12:00:00Z",
+      "prompt_tokens": 2188,
+      "completion_tokens": 501,
+      "status": "ok"
+    }
+  ]
+}

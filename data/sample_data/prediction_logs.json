@@ -1,0 +1,722 @@
+[
+  {
+    "ticket_id": "T-0001",
+    "label": "feature_request",
+    "prediction": "billing",
+    "confidence": 0.94
+  },
+  {
+    "ticket_id": "T-0002",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.96
+  },
+  {
+    "ticket_id": "T-0003",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.96
+  },
+  {
+    "ticket_id": "T-0004",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.97
+  },
+  {
+    "ticket_id": "T-0005",
+    "label": "other",
+    "prediction": "billing",
+    "confidence": 0.97
+  },
+  {
+    "ticket_id": "T-0006",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.59
+  },
+  {
+    "ticket_id": "T-0007",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.79
+  },
+  {
+    "ticket_id": "T-0008",
+    "label": "other",
+    "prediction": "bug",
+    "confidence": 0.91
+  },
+  {
+    "ticket_id": "T-0009",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.7
+  },
+  {
+    "ticket_id": "T-0010",
+    "label": "bug",
+    "prediction": "feature_request",
+    "confidence": 0.58
+  },
+  {
+    "ticket_id": "T-0011",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.6
+  },
+  {
+    "ticket_id": "T-0012",
+    "label": "feature_request",
+    "prediction": "bug",
+    "confidence": 0.62
+  },
+  {
+    "ticket_id": "T-0013",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.91
+  },
+  {
+    "ticket_id": "T-0014",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.64
+  },
+  {
+    "ticket_id": "T-0015",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.54
+  },
+  {
+    "ticket_id": "T-0016",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.78
+  },
+  {
+    "ticket_id": "T-0017",
+    "label": "feature_request",
+    "prediction": "bug",
+    "confidence": 0.9
+  },
+  {
+    "ticket_id": "T-0018",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.51
+  },
+  {
+    "ticket_id": "T-0019",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.77
+  },
+  {
+    "ticket_id": "T-0020",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.64
+  },
+  {
+    "ticket_id": "T-0021",
+    "label": "billing",
+    "prediction": "bug",
+    "confidence": 0.68
+  },
+  {
+    "ticket_id": "T-0022",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.53
+  },
+  {
+    "ticket_id": "T-0023",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.79
+  },
+  {
+    "ticket_id": "T-0024",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.91
+  },
+  {
+    "ticket_id": "T-0025",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.68
+  },
+  {
+    "ticket_id": "T-0026",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.76
+  },
+  {
+    "ticket_id": "T-0027",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.59
+  },
+  {
+    "ticket_id": "T-0028",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.55
+  },
+  {
+    "ticket_id": "T-0029",
+    "label": "billing",
+    "prediction": "feature_request",
+    "confidence": 0.68
+  },
+  {
+    "ticket_id": "T-0030",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.55
+  },
+  {
+    "ticket_id": "T-0031",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.96
+  },
+  {
+    "ticket_id": "T-0032",
+    "label": "feature_request",
+    "prediction": "billing",
+    "confidence": 0.94
+  },
+  {
+    "ticket_id": "T-0033",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.71
+  },
+  {
+    "ticket_id": "T-0034",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.84
+  },
+  {
+    "ticket_id": "T-0035",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.9
+  },
+  {
+    "ticket_id": "T-0036",
+    "label": "bug",
+    "prediction": "other",
+    "confidence": 0.79
+  },
+  {
+    "ticket_id": "T-0037",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.7
+  },
+  {
+    "ticket_id": "T-0038",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.98
+  },
+  {
+    "ticket_id": "T-0039",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.81
+  },
+  {
+    "ticket_id": "T-0040",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.62
+  },
+  {
+    "ticket_id": "T-0041",
+    "label": "bug",
+    "prediction": "other",
+    "confidence": 0.98
+  },
+  {
+    "ticket_id": "T-0042",
+    "label": "billing",
+    "prediction": "other",
+    "confidence": 0.82
+  },
+  {
+    "ticket_id": "T-0043",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.66
+  },
+  {
+    "ticket_id": "T-0044",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.67
+  },
+  {
+    "ticket_id": "T-0045",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.8
+  },
+  {
+    "ticket_id": "T-0046",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.73
+  },
+  {
+    "ticket_id": "T-0047",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.72
+  },
+  {
+    "ticket_id": "T-0048",
+    "label": "feature_request",
+    "prediction": "other",
+    "confidence": 0.71
+  },
+  {
+    "ticket_id": "T-0049",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.54
+  },
+  {
+    "ticket_id": "T-0050",
+    "label": "billing",
+    "prediction": "bug",
+    "confidence": 0.98
+  },
+  {
+    "ticket_id": "T-0051",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.71
+  },
+  {
+    "ticket_id": "T-0052",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.73
+  },
+  {
+    "ticket_id": "T-0053",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.86
+  },
+  {
+    "ticket_id": "T-0054",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.88
+  },
+  {
+    "ticket_id": "T-0055",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.75
+  },
+  {
+    "ticket_id": "T-0056",
+    "label": "bug",
+    "prediction": "billing",
+    "confidence": 0.53
+  },
+  {
+    "ticket_id": "T-0057",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.98
+  },
+  {
+    "ticket_id": "T-0058",
+    "label": "other",
+    "prediction": "billing",
+    "confidence": 0.77
+  },
+  {
+    "ticket_id": "T-0059",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.56
+  },
+  {
+    "ticket_id": "T-0060",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.61
+  },
+  {
+    "ticket_id": "T-0061",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.88
+  },
+  {
+    "ticket_id": "T-0062",
+    "label": "feature_request",
+    "prediction": "other",
+    "confidence": 0.94
+  },
+  {
+    "ticket_id": "T-0063",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.76
+  },
+  {
+    "ticket_id": "T-0064",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.68
+  },
+  {
+    "ticket_id": "T-0065",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.88
+  },
+  {
+    "ticket_id": "T-0066",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.64
+  },
+  {
+    "ticket_id": "T-0067",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.77
+  },
+  {
+    "ticket_id": "T-0068",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.54
+  },
+  {
+    "ticket_id": "T-0069",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.52
+  },
+  {
+    "ticket_id": "T-0070",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.89
+  },
+  {
+    "ticket_id": "T-0071",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.9
+  },
+  {
+    "ticket_id": "T-0072",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.59
+  },
+  {
+    "ticket_id": "T-0073",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.88
+  },
+  {
+    "ticket_id": "T-0074",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.91
+  },
+  {
+    "ticket_id": "T-0075",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.94
+  },
+  {
+    "ticket_id": "T-0076",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.62
+  },
+  {
+    "ticket_id": "T-0077",
+    "label": "bug",
+    "prediction": "billing",
+    "confidence": 0.96
+  },
+  {
+    "ticket_id": "T-0078",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.56
+  },
+  {
+    "ticket_id": "T-0079",
+    "label": "billing",
+    "prediction": "feature_request",
+    "confidence": 0.78
+  },
+  {
+    "ticket_id": "T-0080",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.72
+  },
+  {
+    "ticket_id": "T-0081",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.85
+  },
+  {
+    "ticket_id": "T-0082",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.59
+  },
+  {
+    "ticket_id": "T-0083",
+    "label": "bug",
+    "prediction": "other",
+    "confidence": 0.51
+  },
+  {
+    "ticket_id": "T-0084",
+    "label": "bug",
+    "prediction": "feature_request",
+    "confidence": 0.7
+  },
+  {
+    "ticket_id": "T-0085",
+    "label": "feature_request",
+    "prediction": "other",
+    "confidence": 0.67
+  },
+  {
+    "ticket_id": "T-0086",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.66
+  },
+  {
+    "ticket_id": "T-0087",
+    "label": "other",
+    "prediction": "feature_request",
+    "confidence": 0.62
+  },
+  {
+    "ticket_id": "T-0088",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.87
+  },
+  {
+    "ticket_id": "T-0089",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.95
+  },
+  {
+    "ticket_id": "T-0090",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.72
+  },
+  {
+    "ticket_id": "T-0091",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.58
+  },
+  {
+    "ticket_id": "T-0092",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.77
+  },
+  {
+    "ticket_id": "T-0093",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.61
+  },
+  {
+    "ticket_id": "T-0094",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.63
+  },
+  {
+    "ticket_id": "T-0095",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.77
+  },
+  {
+    "ticket_id": "T-0096",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.6
+  },
+  {
+    "ticket_id": "T-0097",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.82
+  },
+  {
+    "ticket_id": "T-0098",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.81
+  },
+  {
+    "ticket_id": "T-0099",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.55
+  },
+  {
+    "ticket_id": "T-0100",
+    "label": "billing",
+    "prediction": "other",
+    "confidence": 0.87
+  },
+  {
+    "ticket_id": "T-0101",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.65
+  },
+  {
+    "ticket_id": "T-0102",
+    "label": "feature_request",
+    "prediction": "bug",
+    "confidence": 0.72
+  },
+  {
+    "ticket_id": "T-0103",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.68
+  },
+  {
+    "ticket_id": "T-0104",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.84
+  },
+  {
+    "ticket_id": "T-0105",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.54
+  },
+  {
+    "ticket_id": "T-0106",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.66
+  },
+  {
+    "ticket_id": "T-0107",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.55
+  },
+  {
+    "ticket_id": "T-0108",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.95
+  },
+  {
+    "ticket_id": "T-0109",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.79
+  },
+  {
+    "ticket_id": "T-0110",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.9
+  },
+  {
+    "ticket_id": "T-0111",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.85
+  },
+  {
+    "ticket_id": "T-0112",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.84
+  },
+  {
+    "ticket_id": "T-0113",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.77
+  },
+  {
+    "ticket_id": "T-0114",
+    "label": "other",
+    "prediction": "bug",
+    "confidence": 0.54
+  },
+  {
+    "ticket_id": "T-0115",
+    "label": "other",
+    "prediction": "other",
+    "confidence": 0.81
+  },
+  {
+    "ticket_id": "T-0116",
+    "label": "bug",
+    "prediction": "bug",
+    "confidence": 0.65
+  },
+  {
+    "ticket_id": "T-0117",
+    "label": "billing",
+    "prediction": "billing",
+    "confidence": 0.85
+  },
+  {
+    "ticket_id": "T-0118",
+    "label": "bug",
+    "prediction": "billing",
+    "confidence": 0.9
+  },
+  {
+    "ticket_id": "T-0119",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.76
+  },
+  {
+    "ticket_id": "T-0120",
+    "label": "feature_request",
+    "prediction": "feature_request",
+    "confidence": 0.98
+  }
+]

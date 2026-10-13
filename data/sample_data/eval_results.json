@@ -1,0 +1,2078 @@
+[
+  {
+    "example_id": "es-035",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-003",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-052",
+    "model": "v2",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "de-013",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-058",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-004",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "hi-002",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-013",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-038",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-022",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-003",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-000",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-004",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-036",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "es-000",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "de-001",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-028",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-025",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-025",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-010",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "de-000",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-008",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "de-010",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-029",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-031",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-022",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-020",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-015",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-049",
+    "model": "v1",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "de-002",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-013",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "de-019",
+    "model": "v1",
+    "language": "de",
+    "correct": false
+  },
+  {
+    "example_id": "en-015",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-026",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-011",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "de-013",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "de-007",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-046",
+    "model": "v2",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "en-019",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-026",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-009",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "de-019",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-026",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-010",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-031",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-038",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-045",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-001",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-022",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-013",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-042",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-005",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-011",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-000",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-011",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-024",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-041",
+    "model": "v1",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "de-003",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-019",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-037",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-037",
+    "model": "v2",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "es-003",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-047",
+    "model": "v1",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "en-027",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-041",
+    "model": "v2",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "hi-020",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-007",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-006",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-008",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-029",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-023",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "de-015",
+    "model": "v1",
+    "language": "de",
+    "correct": false
+  },
+  {
+    "example_id": "en-049",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "en-028",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-005",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-024",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-005",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-000",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-019",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-049",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-034",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-002",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-024",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-035",
+    "model": "v1",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "es-006",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-051",
+    "model": "v2",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "es-001",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "de-008",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-023",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-044",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-016",
+    "model": "v2",
+    "language": "de",
+    "correct": false
+  },
+  {
+    "example_id": "es-004",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-022",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-017",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-039",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-009",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-011",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-030",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-017",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-045",
+    "model": "v1",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "es-021",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-025",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "en-051",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "es-027",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-026",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "hi-025",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-048",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-032",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "hi-036",
+    "model": "v1",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "es-003",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-033",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-012",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-031",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "en-035",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-055",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "es-016",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-008",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-026",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-054",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "de-012",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-002",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-050",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-058",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "new-3",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-015",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-047",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-014",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-044",
+    "model": "v1",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "es-011",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-045",
+    "model": "v2",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "de-002",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-007",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-001",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-014",
+    "model": "v2",
+    "language": "de",
+    "correct": false
+  },
+  {
+    "example_id": "en-016",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-032",
+    "model": "v1",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "en-006",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-039",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-033",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-012",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-014",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-042",
+    "model": "v1",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "es-020",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-040",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-035",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "en-038",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-006",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-032",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "new-1",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-057",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-002",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-030",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-023",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-001",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-043",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-004",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-017",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "de-018",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-036",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-000",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-039",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-000",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-005",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-055",
+    "model": "v2",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "es-042",
+    "model": "v2",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "en-020",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-007",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-040",
+    "model": "v1",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "en-032",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-036",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-046",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-027",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "de-016",
+    "model": "v1",
+    "language": "de",
+    "correct": false
+  },
+  {
+    "example_id": "en-059",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "new-0",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-037",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-015",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-028",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-038",
+    "model": "v2",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "es-034",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-013",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-008",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-015",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-021",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-038",
+    "model": "v1",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "en-041",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-018",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-018",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-009",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-009",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-021",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-021",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "de-006",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-010",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-027",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-010",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-028",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-039",
+    "model": "v2",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "hi-002",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-011",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-035",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-027",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "en-047",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-009",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-039",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-023",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-028",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-016",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-025",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-052",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "en-012",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-001",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "hi-029",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "hi-018",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-022",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-024",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "hi-014",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "de-007",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-020",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-017",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-006",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-007",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-004",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-040",
+    "model": "v2",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "es-015",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-005",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-009",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "de-014",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "hi-014",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-005",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-027",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-019",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-023",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-022",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-002",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-013",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-029",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-006",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "de-018",
+    "model": "v1",
+    "language": "de",
+    "correct": false
+  },
+  {
+    "example_id": "es-043",
+    "model": "v2",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "hi-037",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-030",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "lost-0",
+    "model": "v1",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "de-008",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-040",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-053",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "en-033",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "lost-1",
+    "model": "v1",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "hi-001",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-014",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-008",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-004",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-045",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-006",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-057",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "es-048",
+    "model": "v1",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "hi-009",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-030",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "hi-017",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-033",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "es-032",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-017",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-034",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-005",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-042",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-053",
+    "model": "v2",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "es-035",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-037",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-029",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-034",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-047",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-059",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-023",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-015",
+    "model": "v2",
+    "language": "de",
+    "correct": false
+  },
+  {
+    "example_id": "en-033",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-016",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-029",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-049",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-056",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "hi-012",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-004",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-007",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-036",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-044",
+    "model": "v2",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "en-012",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-043",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-012",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-016",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-014",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-003",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-013",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-019",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-016",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-001",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-004",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-033",
+    "model": "v1",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "de-017",
+    "model": "v1",
+    "language": "de",
+    "correct": false
+  },
+  {
+    "example_id": "en-056",
+    "model": "v2",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "hi-038",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-019",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-044",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-028",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "en-010",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-032",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-011",
+    "model": "v1",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-017",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-034",
+    "model": "v1",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "es-043",
+    "model": "v1",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "en-018",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-018",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-007",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-041",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-048",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "es-030",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "es-046",
+    "model": "v1",
+    "language": "es",
+    "correct": false
+  },
+  {
+    "example_id": "es-031",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-039",
+    "model": "v1",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "de-003",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-025",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-026",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-024",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-010",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "hi-021",
+    "model": "v2",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "es-031",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-030",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-046",
+    "model": "v1",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-020",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "de-009",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "hi-021",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "en-050",
+    "model": "v1",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "hi-037",
+    "model": "v1",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "en-031",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "de-000",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "en-024",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-048",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "hi-034",
+    "model": "v2",
+    "language": "hi",
+    "correct": false
+  },
+  {
+    "example_id": "new-2",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "en-008",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-005",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-010",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "hi-011",
+    "model": "v1",
+    "language": "hi",
+    "correct": true
+  },
+  {
+    "example_id": "de-012",
+    "model": "v2",
+    "language": "de",
+    "correct": true
+  },
+  {
+    "example_id": "es-018",
+    "model": "v1",
+    "language": "es",
+    "correct": true
+  },
+  {
+    "example_id": "en-054",
+    "model": "v2",
+    "language": "en",
+    "correct": false
+  },
+  {
+    "example_id": "en-003",
+    "model": "v2",
+    "language": "en",
+    "correct": true
+  },
+  {
+    "example_id": "es-036",
+    "model": "v2",
+    "language": "es",
+    "correct": true
+  }
+]
