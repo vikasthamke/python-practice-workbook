@@ -123,7 +123,12 @@ python-practice-workbook/
 
 Requires **Python 3.10 or newer** (tested on 3.10.21 and 3.14.6).
 
+Download the **whole repository**, not just the notebook: it imports `src/` and reads `data/`. Either clone it, or use
+the green **Code** button → **Download ZIP** on GitHub and unzip it (the folder is then named
+`python-practice-workbook-main`).
+
 ```bash
+git clone https://github.com/vikasthamke/python-practice-workbook.git
 cd python-practice-workbook
 python3 -m venv .venv
 source .venv/bin/activate
