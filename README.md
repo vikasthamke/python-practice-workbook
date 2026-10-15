@@ -100,7 +100,7 @@ report.retake()                               # practise the misses again
 
 ```
 python-practice-workbook/
-├── README.md, requirements.txt, .gitignore
+├── README.md, LICENSE, requirements.txt, .gitignore
 ├── notebooks/Python_Practice_Workbook_100_Questions.ipynb   # your main entry point
 ├── data/
 │   ├── README.md                 # dataset descriptions
@@ -226,3 +226,8 @@ See [`docs/learning_guide.md`](docs/learning_guide.md) for a detailed workflow a
   reference and the learning guide's review checklist.
 - All datasets are small and synthetic; they contain no personal data or real credentials.
 - Questions reflect broadly applicable engineering expectations, not any specific company's interview process.
+
+## 17. License
+
+Released under the [MIT License](LICENSE). You may use, copy, modify and share this workbook, including commercially,
+as long as the copyright and license notice stay with it.
